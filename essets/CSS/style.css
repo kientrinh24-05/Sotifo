@@ -386,7 +386,7 @@ font-family: 'Poppins', sans-serif; */
     }
     
     .banner .main_banner .block_banner .img_block__banner {
-        animation: tada 1s;
+        animation: tada 3s;
     }
     
     .banner .main_banner .block_banner h3 {
@@ -395,7 +395,7 @@ font-family: 'Poppins', sans-serif; */
         display: inline-block;
         padding: 1rem 2rem;
         border-radius: 1rem;
-        animation: fadeInDown 2s;
+        animation: fadeInDown 3s;
     }
     
     .banner .main_banner .block_banner .main_text_block {
@@ -405,7 +405,7 @@ font-family: 'Poppins', sans-serif; */
     .banner .main_banner .block_banner h2 {
         font-size: 6rem;
         padding: 2rem 0;
-        animation: jackInTheBox 1s;
+        animation: jackInTheBox 3s;
     }
     
     .banner .main_banner .block_banner h2 .un_h2 {
@@ -415,7 +415,7 @@ font-family: 'Poppins', sans-serif; */
     .banner .main_banner .block_banner p {
         font-size: 2rem;
         color: gray;
-        animation: fadeInDown 2s;
+        animation: fadeInDown 3s;
     }
     
     @media(max-width:768px) {
@@ -439,7 +439,7 @@ font-family: 'Poppins', sans-serif; */
     }
     
     .macbook .block_macbook {
-        animation: fadeInDown 1s;
+        animation: fadeInDown 2s;
         position: relative;
     }
     /* .mac {

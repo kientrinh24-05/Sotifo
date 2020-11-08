@@ -6,7 +6,7 @@ const LoadHead = {
         let classLoad = document.querySelector(classLoading);
         setTimeout(() => {
             classLoad.classList.add(disableC);
-        }, 2000);
+        }, 1000);
     }
 }
 LoadHead.init();
